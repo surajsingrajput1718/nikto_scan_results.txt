@@ -1,0 +1,1 @@
+# nikto_scan_results.txt
